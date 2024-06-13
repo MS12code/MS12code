@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medha Sharma</h1>
-<h3 align="center">A passionate Tech Student and an aspiring Software Engineer from India.</h3>
+<h3 align="center">A passionate Tech Student and an aspiring Software Engineer.</h3>
 
 <img align="centre" alt="Coding" width="450" src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
 
