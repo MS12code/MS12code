@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **smedha2k4@gmail.com**
 
-- ⚡ Fun fact **Results-driven engineering student passionate about pursuing a software engineering career in the IT sector. Seeking an opportunity to apply technical skills, problem-solving abilities, and engineering knowledge to develop innovative software solutions. Dedicated to contributing to a dynamic team, gaining practical experience, and advancing in a challenging and collaborative environment.**
+- ⚡ About me: **Results-driven engineering student passionate about pursuing a software engineering career in the IT sector. Seeking an opportunity to apply technical skills, problem-solving abilities, and engineering knowledge to develop innovative software solutions. Dedicated to contributing to a dynamic team, gaining practical experience, and advancing in a challenging and collaborative environment.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
