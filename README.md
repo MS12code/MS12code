@@ -12,7 +12,10 @@
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms12code" alt="ms12code" /></a> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/69/b3/9f/69b39f6dab8b07dc4b1e5039054b9f50.gif" alt="Coding GIF" width="450">
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/medhash58617606" target="blank"><img src="https://img.shields.io/twitter/follow/medhash58617606?logo=twitter&style=for-the-badge" alt="medhash58617606" /></a> </p>
 
