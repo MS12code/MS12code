@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Medha Sharma</h1>
 <h3 align="center">A passionate Tech Student and an aspiring Software Engineer. </h3>
 
-<img align="center" alt="Coding" width="450" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
+<div align="center">
+  <img alt="Coding" width="450" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms12code&label=Profile%20views&color=0e75b6&style=flat" alt="ms12code" /> </p>
