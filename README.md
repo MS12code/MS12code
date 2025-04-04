@@ -50,14 +50,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms12code&show_icons=true&locale=en&layout=compact" alt="ms12code" /></p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ms12code&show_icons=true&locale=en" alt="ms12code" />
 </p>
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms12code" alt="ms12code" />
-</p>-->
+</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/69/b3/9f/69b39f6dab8b07dc4b1e5039054b9f50.gif" alt="Animated GIF" />
 </p>
