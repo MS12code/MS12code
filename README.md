@@ -13,7 +13,13 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/69/b3/9f/69b39f6dab8b07dc4b1e5039054b9f50.gif" alt="Coding GIF" width="450">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ms12code" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ms12code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
