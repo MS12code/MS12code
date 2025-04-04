@@ -50,6 +50,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms12code&show_icons=true&locale=en&layout=compact" alt="ms12code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms12code&show_icons=true&locale=en" alt="ms12code" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ms12code&show_icons=true&locale=en" alt="ms12code" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms12code&" alt="ms12code" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms12code" alt="ms12code" />
+</p>
+
