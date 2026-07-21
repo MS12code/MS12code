@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Profile Badges (Followers badge removed as requested) -->
+  <!-- Profile Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=MS12code&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
     <a href="mailto:smedha2k4@gmail.com">
@@ -148,27 +148,24 @@ I am an **Electronics & Communication Engineering (ECE) undergrad** with a relen
 
 <div align="center">
 
-  <!-- Trophies -->
+  <!-- Activity Graph -->
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=MS12code&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ms12code&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Medha's Contribution Activity Graph" />
   </p>
 
-  <!-- Main GitHub Stats & Top Languages Grid -->
+  <br/>
+
+  <!-- Profile Summary & Language Cards -->
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MS12code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Medha's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS12code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms12code&theme=tokyonight" height="170em" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ms12code&theme=tokyonight" height="170em" alt="Most Used Languages" />
   </p>
 
-  <!-- Streak Stats -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MS12code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+  <br/>
 
-  <!-- Contribution Graph Snake Animation -->
+  <!-- Contribution Streak Stats -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/MS12code/MS12code/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=ms12code&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
   </p>
 
 </div>
