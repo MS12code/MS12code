@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/cinnamoroll.png" width="160" alt="Cinnamoroll Pixel Art" />
+  <img src="./assets/cinnamoroll.gif" width="180" alt="Moving Cinnamoroll Animated Pixel Art" />
 </div>
 
 I am an **Electronics & Communication Engineering (ECE) undergrad** with a relentless curiosity for software development and cutting-edge artificial intelligence. I love diving deep into emerging technologies, designing multi-agent workflows, and crafting production-ready intelligent systems.
