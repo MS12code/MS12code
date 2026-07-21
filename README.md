@@ -32,14 +32,23 @@
 
 > 🌸 *"Passionate **AI Engineer & Aspiring Software Engineer** driven by a love for building **scalable AI-powered systems**, autonomous **AI agents**, and **LLM orchestrations**."*
 
+<p align="center">
+  <b>🎯 Primary focus:</b> <code>AI infrastructure</code> · <code>retrieval systems</code> · <code>LLM pipelines</code> · <code>backend</code><br/>
+  <b>✨ Daily Goal:</b> <i>Learning anything new and fun daily!</i> 🎀
+</p>
+
+<div align="center">
+  <img src="./assets/cinnamoroll.png" width="160" alt="Cinnamoroll Pixel Art" />
+</div>
+
 I am an **Electronics & Communication Engineering (ECE) undergrad** with a relentless curiosity for software development and cutting-edge artificial intelligence. I love diving deep into emerging technologies, designing multi-agent workflows, and crafting production-ready intelligent systems.
 
 ---
 
 #### 💫 What I Love Doing & Exploring
-- 🧠 **AI Systems & LLMs**: Designing multi-agent pipelines (LangGraph/LangChain), enterprise RAG architectures, and fine-tuned AI tools.
-- ⚡ **Scalable Engineering**: Building fast, modular, and reliable web services using Python, Node.js, Express, and modern REST APIs.
-- 🔬 **Tech Exploration**: Constantly experimenting with new frameworks, vector databases, model deployment, and open-source tech.
+- 🧠 **AI Infrastructure & Retrieval**: Building multi-agent pipelines (LangGraph/LangChain), enterprise RAG architectures, and high-performance LLM systems.
+- ⚡ **Backend Engineering**: Building fast, modular, and reliable web services using Python, Node.js, Express, and modern REST APIs.
+- 🔬 **Tech Exploration**: Learning anything new & fun daily — experimenting with new frameworks, vector DBs, and open-source models!
 - 🧩 **Competitive Problem Solving**: Actively sharpening algorithmic thinking with **940+ GitHub contributions** and daily LeetCode/Codeforces sessions.
 
 #### ⚡ Fun Facts About Me
