@@ -25,7 +25,7 @@
 ### ✨ About Me & My Craft
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Techy Girl Coding Dark Theme Animation" />
+  <img src="https://i.pinimg.com/originals/69/b3/9f/69b39f6dab8b07dc4b1e5039054b9f50.gif" width="450" alt="Techy Girl Programming Animation" />
 </div>
 
 <br/>
@@ -152,22 +152,6 @@ I am an **Electronics & Communication Engineering (ECE) undergrad** with a relen
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ms12code&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Medha's Contribution Activity Graph" />
   </p>
-
-  <br/>
-
-  <!-- Profile Summary & Language Cards -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms12code&theme=tokyonight" height="170em" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ms12code&theme=tokyonight" height="170em" alt="Most Used Languages" />
-  </p>
-
-  <br/>
-
-  <!-- Contribution Streak Stats -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=ms12code&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
-  </p>
-
 </div>
 
 ---
