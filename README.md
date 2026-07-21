@@ -5,17 +5,14 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=ECE+Undergrad+%7C+AI+%26+Software+Engineer;Building+Agentic+AI+%26+RAG+Pipelines;940%2B+GitHub+Contributions+in+a+Year;Top+300+Flipkart+GRID+7.0+Semifinalist;UN+Millennium+Fellow+'24+(Top+5%25)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer+%7C+Aspiring+Software+Engineer;Building+Scalable+AI+Systems+%26+LLMs;ECE+Undergrad+%2B+Multi-Agent+Architect;940%2B+GitHub+Contributions+in+a+Year;Top+300+Flipkart+GRID+7.0+Semifinalist" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Badges & Counter -->
+  <!-- Profile Badges (Followers badge removed as requested) -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=MS12code&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
-    <a href="https://github.com/MS12code?tab=followers">
-      <img src="https://img.shields.io/github/followers/MS12code?label=Followers&logo=github&style=for-the-badge&color=238636" alt="GitHub Followers" />
-    </a>
     <a href="mailto:smedha2k4@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -25,13 +22,29 @@
 
 ---
 
-### 🌟 About Me
+### ✨ About Me & My Craft
 
-- 🎓 **Education**: Electronics & Communication Engineering (ECE) Undergrad with a deep passion for **Software Engineering** and **AI Engineering**.
-- 🤖 **AI Specialization**: Designing & deploying **Agentic AI systems**, **Multi-Agent workflows (LangGraph)**, **RAG architectures**, and **LLM pipelines**.
-- 🧩 **Problem Solving**: Active competitive programmer & DSA enthusiast — **940+ contributions** on GitHub in the last year & continuous daily problem solver!
-- ⚡ **Fun Fact**: As an ECE undergrad, I view code like circuit design — modular, low-latency, resilient, and optimized for maximum throughput!
-- 🎨 **Hobbies**: Exploring state-of-the-art AI research papers, building agentic micro-tools, solving daily LeetCode puzzles, and UI/UX design.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Techy Girl Coding Dark Theme Animation" />
+</div>
+
+<br/>
+
+> 🚀 *"Passionate **AI Engineer & Aspiring Software Engineer** driven by a love for building **scalable AI-powered systems**, autonomous **AI agents**, and **LLM orchestrations**."*
+
+I am an **Electronics & Communication Engineering (ECE) undergrad** with a relentless curiosity for software development and cutting-edge artificial intelligence. I love diving deep into emerging technologies, designing multi-agent workflows, and crafting production-ready intelligent systems.
+
+---
+
+#### 💫 What I Love Doing & Exploring
+- 🧠 **AI Systems & LLMs**: Designing multi-agent pipelines (LangGraph/LangChain), enterprise RAG architectures, and fine-tuned AI tools.
+- ⚡ **Scalable Engineering**: Building fast, modular, and reliable web services using Python, Node.js, Express, and modern REST APIs.
+- 🔬 **Tech Exploration**: Constantly experimenting with new frameworks, vector databases, model deployment, and open-source tech.
+- 🧩 **Competitive Problem Solving**: Actively sharpening algorithmic thinking with **940+ GitHub contributions** and daily LeetCode/Codeforces sessions.
+
+#### ⚡ Fun Facts About Me
+- 🔌 **The ECE Hardware Connection**: I view software architecture through an ECE lens — every AI agent pipeline is designed like a high-frequency digital circuit: modular, parallelized, low-latency, and fault-tolerant!
+- ☕ **Night Owl Debugger**: Powered by late-night focus sessions, lo-fi beats, and a drive to turn complex ideas into working code.
 
 ---
 
@@ -39,7 +52,7 @@
 
 | Achievement | Description |
 | :--- | :--- |
-| 🥇 **Flipkart GRID 7.0 Semifinalist** | Ranked in the **Top 300 out of 40,000+** individual participants nationwide in Flipkart's flaghip engineering challenge. |
+| 🥇 **Flipkart GRID 7.0 Semifinalist** | Ranked in the **Top 300 out of 40,000+** individual participants nationwide in Flipkart's flagship engineering challenge. |
 | 🇺🇳 **UN Millennium Fellow ('24)** | Selected among **4,000+ fellows out of 52,000+** global applicants across 6,000+ campuses (**Top 5%** worldwide). |
 | 🚀 **AlgoUniversity ATF Fellow** | Qualified Stage 1 of the AlgoUniversity Technology Fellowship by ranking in the **Top 20%** (out of 4,000+ candidates). |
 
